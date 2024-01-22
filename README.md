@@ -33,6 +33,8 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Responsividade 2
 - [x] Possui funcionalidades com JS 3
 - [x] Galeria de projetos 4
+- [ ] Conceito mobile first 5
+
       
 <img src="assets/img/QRcode.png" alt="css3" width="200" height="200"/>
 
