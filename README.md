@@ -36,16 +36,10 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
       
 <img src="assets/img/QRcode.png" alt="css3" width="200" height="200"/>
 
-## 🚀 Link temporário da atualização do site copie e cole no navegador!
+## 🚀 Atualização do site copie e cole no navegador!
 ##(Com projetos novos)
 
 ```
-https://portfolio-g6up.vercel.app/
+https://portfolio-dio-me.vercel.app/
 ```
 
-## 🚀 Link da atualização anterior do site copie e cole no navegador!
-##(Sem projetos novos)
-
-```
-https://portfolio-kxxy.vercel.app/
-```
